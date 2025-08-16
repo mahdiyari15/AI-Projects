@@ -1,0 +1,15 @@
+Note that solutions are not unique!
+We show one optimal solution for each sample.
+map 9 solution may not be necessarily optimal.
+
+map1.txt: UDDULRR
+map2.txt: LUDDUL
+map3.txt: ULDDUUUURDDDD
+map4.txt: No solution
+map5.txt: ULDDRDLLLUUURUL
+map6.txt: UUUUURRRLLLLLLLDDDDDDDDDRDLRRRRRRR
+map7.txt: RURRDDDDLDRUUUULLLRDRDRDDLLDLLUUDR
+map8.txt: UURDLDRRDRURDR
+map9.txt: RURURDRRDRDLDLULLULURRURDLUUUUULULDLDRRURDDDDLDRDLDRRDRURULULULDLDR
+map10.txt: RRRRRDRULURULLLULDRUUULDRDLDRRDRULURURDDRDLLLL
+        

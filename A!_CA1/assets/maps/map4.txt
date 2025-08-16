@@ -1,0 +1,6 @@
+W   W   W   W   W   W
+W   H   .   B1  P1  W
+W   W   W   .   .   W
+W   G1  B2  P1  W   W
+W   .   .   G2  .   W
+W   W   W   W   W   W

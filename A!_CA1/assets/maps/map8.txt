@@ -1,0 +1,10 @@
+W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   
+W   .   .   .   .   .   .   .   W   .   .   P1  .   P2   .   .   .   .  W   
+W   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   W   
+W   .   B1  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   W 
+W   H   .   P1  .   .   .   .   .   .   .   .   .   .   P2  .   B2  G2  W  
+W   .   .   .   .   .   .   .   W   .   .   .   .   .   .   G1  .   .   W   
+W   .   .   .   .   .   .   .   W   .   .   .   .   .   .   .   .   .   W   
+W   .   .   .   .   .   .   .   W   .   .   .   .   .   .   .   .   .   W   
+W   .   .   .   .   .   .   .   W   .   .   .   .   .   .   .   .   .   W  
+W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   W   

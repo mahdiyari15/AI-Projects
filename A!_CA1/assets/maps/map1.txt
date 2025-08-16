@@ -1,0 +1,7 @@
+W   W   W   W   W   W   W
+W   W   W   G1  W   W   W
+W   W   W   B1  W   W   W
+W   G2  B2  H   B4  G4  W
+W   W   W   B3  W   W   W
+W   W   W   G3  W   W   W
+W   W   W   W   W   W   W

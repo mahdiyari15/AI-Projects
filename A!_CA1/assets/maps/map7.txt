@@ -1,0 +1,8 @@
+.   .   W   W       W   W   W   .
+W   W   W   .       .   .   W   .
+W   G1  H   B1      .   .   W   .
+W   W   W   .       B2  G2  W   .
+W   G7  W   W       B3  .   W   .      
+W   .   W   .       G3  .   W   W
+W   B7  .  B6/G6    B5  B4  G4  W
+W   .   .   .       G5  .   .   W
